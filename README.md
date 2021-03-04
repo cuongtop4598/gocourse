@@ -1,2 +1,2 @@
-# gocource
+# gocourse
 go project 
